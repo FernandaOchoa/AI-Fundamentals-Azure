@@ -69,8 +69,9 @@ Recuerda que para poder ejecutar los laboratorios es necesario contar con una **
 <tr>
 <td><a href="https://docs.microsoft.com/es-mx/learn/paths/create-no-code-predictive-models-azure-machine-learning/">2: Módulo 2 de AI-900</a></td> <td>Aprendizaje Automático</td> <td><a href="https://github.com/FernandaOchoa/AI-Fundamentals-Azure/blob/master/labs/02%20-%20Creaci%C3%B3n%20de%20modelos%20predictivos%20sin%20c%C3%B3digo%20con%20Azure%20Machine%20Learning.md" target="_blank">02: Creación de modelos predictivos sin código con Azure Machine Learning</a></td> <td><table>  <tbody> <tr><th>No.</th> <th>Laboratorio</th></tr> <tr>  <td>01</td> <td>Diseño de un experimento con Azure ML</td>  </tr>  <tr>  <td>02</td>  <td>Creación de un modelo de regresión</td>  </tr>  <tr>  <td>03</td>  <td>Creación de un modelo de clasificación</td>  </tr>  <tr>  <td>04</td>  <td>Creación de un modelo de agrupación de clústeres</td>  </tr>  </tbody></table></td>
 <td><table><tbody><tr><th>Nombre del Recurso</th></tr>
-<tr><td><a href="https://innovaccion-my.sharepoint.com/:f:/g/personal/fochoa_innovaccion_mx/EvXb3LR3OMNNjcIFK-UNLxIBz6jvRzI1y72-EWZsniPs_A?e=cMXQ8d">Laboratorios del Módulo 2</a></td></tr>
-<tr><td><a href="https://medium.com/mytake/understanding-different-types-of-distributions-you-will-encounter-as-a-data-scientist-27ea4c375eec">Entendiendo los diferentes tipos de distribuciones en Data Science</a></td></tr>
+<tr><td><a href="https://innovaccion-my.sharepoint.com/:f:/g/personal/fochoa_innovaccion_mx/EvXb3LR3OMNNjcIFK-UNLxIBz6jvRzI1y72-EWZsniPs_A?e=cMXQ8d" target="_blank">Laboratorios del Módulo 2</a></td></tr>
+<tr><td><a href="https://medium.com/mytake/understanding-different-types-of-distributions-you-will-encounter-as-a-data-scientist-27ea4c375eec" target="_blank">Entendiendo los diferentes tipos de distribuciones en Data Science</a></td></tr>
+  <tr> <td><a href="https://docs.microsoft.com/en-us/azure/machine-learning/media/algorithm-cheat-sheet/machine-learning-algorithm-cheat-sheet.svg" target="_blank">Algoritmos de Machine Learning</a></td></tr>
 
 </tbody></table></td>
 </tr>
